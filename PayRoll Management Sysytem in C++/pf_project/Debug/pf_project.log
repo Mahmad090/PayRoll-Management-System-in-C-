@@ -1,0 +1,6 @@
+﻿  pf_project.cpp
+C:\Users\User\source\repos\pf_project\pf_project\pf_project.cpp(85,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\pf_project\pf_project\pf_project.cpp(85,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\pf_project\pf_project\pf_project.cpp(193,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\pf_project\pf_project\pf_project.cpp(193,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  pf_project.vcxproj -> C:\Users\User\source\repos\pf_project\Debug\pf_project.exe
